@@ -1,0 +1,10 @@
+{
+  "name": "resume-bullets",
+  "version": "1.0.0",
+  "description": "Turn a career brain dump into strong, impact-first resume bullet points, or review and tighten existing bullets.",
+  "author": {
+    "name": "Kartheek Penagamuri",
+    "email": "kartheekmedhavi@gmail.com"
+  },
+  "keywords": ["resume", "career", "writing", "bullets"]
+}
